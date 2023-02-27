@@ -27,7 +27,7 @@ num1,num2,result = 100,200,0
 #result = div_func(num1,num2)
 #print(num1,'/',num2,'=',result)
 
-result = add_func(num1,num2)
+result = mul_func(num1,num2)
 print(num1,'*',num2,'=',result)
 
 result = double_func(num1,num2)
@@ -36,5 +36,5 @@ print(num1,'**',num2,'=',result)
 result = add_func(num1,num2)
 print(num1,'+',num2,'=',result)
 
-result = add_func(num1,num2)
+result = min_func(num1,num2)
 print(num1,'-',num2,'=',result)
